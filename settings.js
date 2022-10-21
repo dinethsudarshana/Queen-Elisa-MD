@@ -57,7 +57,7 @@ Download song type .yt
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `
-🌀 Thanks Fro using black panther bo
+🌀 Thanks Fro using black panther bot
 ✾ Some bugs fixing
 😼♥️
 `
